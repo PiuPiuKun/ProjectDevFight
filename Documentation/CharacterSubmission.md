@@ -30,7 +30,7 @@ A Character Import/Submission must have ::
     * ~~Unlock Requirements~~
     * Requirements
     * Creator's Comments, if any
-=======
+
 ## Adding New Characters
 
 This documents covers the character submission.
