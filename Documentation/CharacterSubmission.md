@@ -1,0 +1,31 @@
+# Adding New Characters
+
+This documents covers the character submission.
+Though you can upload as many as you need, there
+is, however a limit of characters that you can actually
+submit to the game itself. (aka, various concepts, only
+two 'products')
+
+# Character Rules
+
+In order to keep the game balance, we ask all creators
+to keep their characters "Non-Broken". As in, nothing
+Over-Powered or similar. (That's what the RageDrive is
+for.)
+
+A Character Import/Submission must have ::
+* The Drawings to tell how the character looks
+  * Preferably a T-Pose drawing as well, for modeling
+  
+* The Submission File
+  * Name; Title     (Example; Carlos, The Linux Loving Indie)
+  * Character Modes (Normal; EX Mode Title)
+  * Weapons         (Example; Swords/Guns)
+  * Song List       [PLACEHOLDER]
+  * Move List       [Concept Format, to be updated]
+    * Name [Button Combination]
+    * Description + Range
+    * Damage Range
+    * ~~Unlock Requirements~~
+    * Requirements
+    * Creator's Comments, if any
