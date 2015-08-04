@@ -9,6 +9,7 @@ two 'products')
 
 # Character Rules
 
+### IT'S IMPORTANT THAT EVERY CHARACTER HAS IT'S OWN COPYRIGHT
 In order to keep the game balance, we ask all creators
 to keep their characters "Non-Broken". As in, nothing
 Over-Powered or similar. (That's what the RageDrive is

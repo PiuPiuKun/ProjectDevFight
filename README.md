@@ -40,11 +40,7 @@ we're taking new submissions. These include::
 * Music Composition
 * And Such (More to be documented)
 
-There is however a plot in development. But each
 
-The levels of the game are intended to be (most if, not all) fighting
-arenas, as well as PvE for each character arc. "Dungeons" (Mazes) are
-acceptable.
 
 
 # Updates and Reunions
