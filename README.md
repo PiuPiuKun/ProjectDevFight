@@ -21,7 +21,8 @@ This game as the time of this writing (Aug4,15) might be released for ::
 version that will be completed as a game yet. Thus the project is open
 new ideas.~~
 
-Long story short :: You make content (Character, Map, Texture, Song, etc)
+Long story short ::
+                    You make content (Character, Map, Texture, Song, etc)
                     and we'll add it to the game.
 
                     The game is JRPG-esque, but it's also an open field
