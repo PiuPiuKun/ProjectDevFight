@@ -36,7 +36,8 @@ Though we're not taking monetary donations (or at least not yet),
 we're taking new submissions. These include::
 * [Characters](./Documentation/CharacterSubmission.md)
 * [Levels and Assets](./Documentation/LevelSubmission.md)
-
+* Music Composition
+* And Such (More to be documented)
 
 There is however a plot in development. But each
 
