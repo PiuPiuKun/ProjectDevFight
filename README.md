@@ -46,4 +46,3 @@ There is however a plot in development. But each
 The levels of the game are intended to be (most if, not all) fighting
 arenas, as well as PvE for each character arc. "Dungeons" (Mazes) are
 acceptable. S
->>>>>>> c74ce2b1b4ec5d20070d39dad77bc27a7071ef79
