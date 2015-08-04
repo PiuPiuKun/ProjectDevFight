@@ -24,3 +24,7 @@ August 4 Reunion ::
   * If Can't Model, at least have the Concept Art in T Pose so another person   can model it.
     * Contact me if you can't find anyone to draw it and/or model it for you
   * Name, Title, Description, Move set
+
+  # Extras
+  * A contact named Ernest has offered help for the project with his team TRS
+    * They'll mostly work with Level Design and Modeling.
