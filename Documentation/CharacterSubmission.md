@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Adding New Characters
 
 This documents covers the character submission.
@@ -17,7 +17,7 @@ for.)
 A Character Import/Submission must have ::
 * The Drawings to tell how the character looks
   * Preferably a T-Pose drawing as well, for modeling
-  
+
 * The Submission File
   * Name; Title     (Example; Carlos, The Linux Loving Indie)
   * Character Modes (Normal; EX Mode Title)
@@ -39,5 +39,3 @@ is, however a limit of chatacters that you can actually
 submit to the game itself. (aka, various concepts, only
 two 'products') IN THE CASE OF DLCs, if applicable,
 you may release two more characters.
-d
->>>>>>> c74ce2b1b4ec5d20070d39dad77bc27a7071ef79

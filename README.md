@@ -35,14 +35,17 @@ The levels of the game are intended to be (most if, not all) fighting
 arenas, as well as PvE for each character arc. "Dungeons" are
 acceptable. Prime example; while Dissidia Focuses on Fighting, this game
 (or at least the story mode) focuses on level exploration to gain
-any sort of advantage to the player.
-=======
-Though as of current, this is just one big idea, there is no definite
-version that will be completed as a game yet. Thus the project is open
-new ideas.
+any sort of advantage to the player. Though as of current, this is just one
+big idea, there is no definite version that will be completed as a1 game yet.
+Thus the project is open new ideas.
 
 There is however a plot in development. But each
 
 The levels of the game are intended to be (most if, not all) fighting
 arenas, as well as PvE for each character arc. "Dungeons" (Mazes) are
-acceptable. S
+acceptable.
+
+
+# Updates and Reunions
+
+[First Official Reunion, August 4, '15](./Reunions/August4.md)
