@@ -17,7 +17,6 @@ This game as the time of this writing (Aug4,15) might be released for ::
 * ~~Mobile (And/iOS)~~
 
 ## The Game -- How it Works
-<<<<<<< HEAD
 ~~Though as of current, this is just one big idea, there is no definite
 version that will be completed as a game yet. Thus the project is open
 new ideas.~~
