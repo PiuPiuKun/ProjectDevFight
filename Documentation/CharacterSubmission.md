@@ -18,7 +18,7 @@ A Character Import/Submission must have ::
 * The Drawings to tell how the character looks
   * Preferably a T-Pose drawing as well, for modeling
 
-* The Submission File
+* The Submission File (Check the Character Entries)
   * Name; Title     (Example; Carlos, The Linux Loving Indie)
   * Character Modes (Normal; EX Mode Title)
   * Weapons         (Example; Swords/Guns)
